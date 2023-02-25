@@ -1,0 +1,15 @@
+/Users/albertboronovskij/Desktop/aaaaaaaaaaa/exampls/example001/bin/Debug/net6.0/example001
+/Users/albertboronovskij/Desktop/aaaaaaaaaaa/exampls/example001/bin/Debug/net6.0/example001.deps.json
+/Users/albertboronovskij/Desktop/aaaaaaaaaaa/exampls/example001/bin/Debug/net6.0/example001.runtimeconfig.json
+/Users/albertboronovskij/Desktop/aaaaaaaaaaa/exampls/example001/bin/Debug/net6.0/example001.dll
+/Users/albertboronovskij/Desktop/aaaaaaaaaaa/exampls/example001/bin/Debug/net6.0/example001.pdb
+/Users/albertboronovskij/Desktop/aaaaaaaaaaa/exampls/example001/obj/Debug/net6.0/example001.csproj.AssemblyReference.cache
+/Users/albertboronovskij/Desktop/aaaaaaaaaaa/exampls/example001/obj/Debug/net6.0/example001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertboronovskij/Desktop/aaaaaaaaaaa/exampls/example001/obj/Debug/net6.0/example001.AssemblyInfoInputs.cache
+/Users/albertboronovskij/Desktop/aaaaaaaaaaa/exampls/example001/obj/Debug/net6.0/example001.AssemblyInfo.cs
+/Users/albertboronovskij/Desktop/aaaaaaaaaaa/exampls/example001/obj/Debug/net6.0/example001.csproj.CoreCompileInputs.cache
+/Users/albertboronovskij/Desktop/aaaaaaaaaaa/exampls/example001/obj/Debug/net6.0/example001.dll
+/Users/albertboronovskij/Desktop/aaaaaaaaaaa/exampls/example001/obj/Debug/net6.0/refint/example001.dll
+/Users/albertboronovskij/Desktop/aaaaaaaaaaa/exampls/example001/obj/Debug/net6.0/example001.pdb
+/Users/albertboronovskij/Desktop/aaaaaaaaaaa/exampls/example001/obj/Debug/net6.0/example001.genruntimeconfig.cache
+/Users/albertboronovskij/Desktop/aaaaaaaaaaa/exampls/example001/obj/Debug/net6.0/ref/example001.dll
